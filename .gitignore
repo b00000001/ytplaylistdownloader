@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 credentials.json
 token.json
+playlist_items.txt
 
 # C extensions
 *.so
@@ -11,6 +12,7 @@ token.json
 # Distribution / packaging
 .Python
 build/
+bin/
 develop-eggs/
 dist/
 downloads/
